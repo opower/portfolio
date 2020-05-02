@@ -1,0 +1,10 @@
+.big-circle{
+  background-color: salmon;
+  border-radius: 50%;
+  height: 50%;
+  width:50%;
+}
+
+.container{
+  width: 50%;
+}

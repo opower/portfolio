@@ -1,0 +1,15 @@
+.nav{
+  padding: 2rem;
+  color:white
+}
+
+.right{
+  display: flex;
+  justify-content: flex-end;
+}
+
+.right > *{
+  color:white;
+  text-decoration: none;
+  margin-left: 1.5rem;
+}

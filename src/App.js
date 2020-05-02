@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 import image from './assets/b3.png'
 import NavMenu from './components/NavMenu'
+import Container from '@material-ui/core/Container'
 
 function App() {
 
@@ -17,8 +18,9 @@ function App() {
   }
   return (
     <div style={styles.background}>
-      <NavMenu/>
-
+      <Container>
+        <NavMenu/>
+      </Container>
     </div>
   );
 }

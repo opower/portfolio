@@ -1,6 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Merienda|Playfair+Display|Roboto+Condensed&display=swap');
 .nav{
   padding: 2rem;
   color:white
+}
+
+.nav a{
+  font-family: 'Roboto Condensed';
+  font-size: 1.25rem;
 }
 
 .right{

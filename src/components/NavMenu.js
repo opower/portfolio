@@ -9,9 +9,9 @@ export default function NavMenu(){
   return(
     <Navbar className='nav' sticky='top' expand='lg'>
       <Nav className="right">
-        <Nav.Link href="#About">About</Nav.Link>
-        <Nav.Link href="#Projects">Projects</Nav.Link>
-        <Nav.Link href="#Contact">Contact</Nav.Link>
+        <Nav.Link href="#About">ABOUT</Nav.Link>
+        <Nav.Link href="#Projects">PROJECTS</Nav.Link>
+        <Nav.Link href="#Contact">CONTACT</Nav.Link>
       </Nav>
     </Navbar>
   );
